@@ -1,4 +1,4 @@
-# ColombiaMove - Marketplace Multiplataforma
+# Marketplace de Colombia - Plataforma Multiplataforma
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.47+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Hono](https://img.shields.io/badge/Hono-v4+-E36002?logo=hono&logoColor=white)](https://hono.dev)
@@ -6,7 +6,7 @@
 [![Cloudflare D1](https://img.shields.io/badge/Cloudflare-D1_Database-F38020?logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/d1/)
 [![Cloudflare KV](https://img.shields.io/badge/Cloudflare-KV_Storage-F38020?logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/kv/)
 
-Marketplace moderno para Colombia (servicios, acarreos, mudanzas, empleos, arriendos y productos usados), inspirado en **colombiamove.com**. Diseñado para ejecutarse con latencia ultra baja en el Edge de Cloudflare con soporte nativo para **Web**, **iOS** y **Android**.
+Marketplace moderno para Colombia (servicios, acarreos, mudanzas, empleos, arriendos y productos usados). Diseñado para ejecutarse con latencia ultra baja en el Edge de Cloudflare con soporte nativo para **Web**, **iOS** y **Android**.
 
 ---
 
@@ -81,8 +81,8 @@ marketplace/
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/hamstersoftwarecol/marketplace.git
-cd marketplace
+git clone https://github.com/hamstersoftwarecol/marketplace-de-colombia.git
+cd marketplace-de-colombia
 ```
 
 ---

@@ -36,7 +36,13 @@ class HomeScreen extends ConsumerWidget {
           children: [
             Icon(Icons.storefront, color: AppColors.primary),
             SizedBox(width: 6),
-            Text('ColombiaMove', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+            Flexible(
+              child: Text(
+                'Marketplace de Colombia',
+                style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
+                overflow: TextOverflow.ellipsis,
+              ),
+            ),
           ],
         ),
         actions: [
