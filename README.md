@@ -17,6 +17,18 @@ Marketplace moderno para Colombia (servicios, acarreos, mudanzas, empleos, arrie
 
 ---
 
+## 📸 Vistas de la Aplicación
+
+### Versión Web (Escritorio)
+![Marketplace de Colombia - Web Desktop](docs/screenshots/web_desktop.png)
+
+### Versiones Móviles (iOS y Android)
+| iOS Simulator (iPhone 17 Pro) | Android Emulator (API 36) |
+|:---:|:---:|
+| <img src="docs/screenshots/ios_mobile.png" width="340" alt="iOS" /> | <img src="docs/screenshots/android_mobile.png" width="340" alt="Android" /> |
+
+---
+
 ## 🏗 Arquitectura y Tecnologías
 
 ### Backend (Edge Serverless)
