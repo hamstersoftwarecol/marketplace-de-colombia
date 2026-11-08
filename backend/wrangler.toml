@@ -1,0 +1,30 @@
+name = "marketplace-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+account_id = "0a752097fea8d3d143836ffcb796bdc1"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "marketplace-db"
+database_id = "521e94ca-117b-4fa3-9287-602a706847b8"
+
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "06ac9be921564956ae0d536936377210"
+
+[[kv_namespaces]]
+binding = "RATE_LIMIT"
+id = "eec1e1d5b2a0445693825867097afe43"
+
+[[kv_namespaces]]
+binding = "CACHE"
+id = "d0c1e96aa1ac4262a0934ee3dd7d0969"
+
+[[kv_namespaces]]
+binding = "IMAGES_KV"
+id = "ba254acc04f14f6cb02298dfc582e35f"
+
+[vars]
+JWT_SECRET = "change-this-in-production"
+ENVIRONMENT = "development"
